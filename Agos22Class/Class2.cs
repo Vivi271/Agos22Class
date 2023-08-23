@@ -15,6 +15,7 @@ namespace Agos22Class
             string A = Console.ReadLine();
             Console.WriteLine("Ingrese por favor la palabra B");
             string B = Console.ReadLine();
+            Console.WriteLine();    
 
             Console.WriteLine("El contenido actual de A es: " + A);
             Console.WriteLine("El contenido actual de B es :" + B);
